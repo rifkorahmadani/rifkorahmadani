@@ -1,4 +1,4 @@
-<h1 align="center">Assalamualaikum 🤞, I'm Rifko 😎</h1>
+<h1 align="center">Assalamualaikum, I'm Rifko 😎</h1>
 
 ### 👨‍💻 About Me
 
