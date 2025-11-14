@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size: 40px; font-weight: 700;">
+  <span style="font-size:36px; font-weight: 700;">
     Assalamualaikum 👋, I'm Rifko
   </span>
 </p>
