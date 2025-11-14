@@ -1,5 +1,5 @@
-## Assalamualaikum 👋 I'm Rifko Satrio Rahmadani
-
+## Assalamualaikum 👋 I'm Rifko
+I’m a Wireless Telecommunication Engineering student at Politeknik Negeri Bandung
 <!--
 **rifkorahmadani/rifkorahmadani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
