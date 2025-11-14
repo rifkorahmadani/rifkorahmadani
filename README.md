@@ -1,8 +1,9 @@
 <div align="center">
 
-## Assalamualaikum 👋, I'm Rifko
+# Assalamualaikum 👋, I'm Rifko
 </div>
-I’m a Wiremless Telecommunication Engineering student at Politeknik Negeri Bandung
+
+I’m a Wireless Telecommunication Engineering student at Politeknik Negeri Bandung
 <!--
 **rifkorahmadani/rifkorahmadani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
