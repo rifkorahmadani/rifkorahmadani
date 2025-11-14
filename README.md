@@ -1,6 +1,14 @@
 <h1 align="center">Assalamualaikum 🤞, I'm Rifko 😎</h1>
 
-I’m a Wireless Telecommunication Engineering student at Politeknik Negeri Bandung
+### 👨‍💻 About Me
+
+I am a D4 Telecommunication Engineering student at Politeknik Negeri Bandung with a strong interest in telecommunication systems and modern network technologies.  
+My key interests include network infrastructure, cybersecurity, and satellite communication.
+
+I have hands-on experience in IoT hardware development using ESP32, Arduino, and RFID, as well as software projects involving Java and MySQL.  
+I’m also familiar with tools such as Cisco Packet Tracer, PNetLab, CST Studio Suite, and Proteus.
+
+I am committed to applying my academic foundation to real-world industry environments, while continuously improving my technical and professional skills to contribute to digital innovation in Indonesia.
 
 #### 🤝 Connect with me:
 [<img src="https://skillicons.dev/icons?i=gmail" width="40" />](mailto:rifkorahmadani@gmail.com) [<img src="https://skillicons.dev/icons?i=linkedin" width="40" />](https://www.linkedin.com/in/rifkosatriorahmadani/) [<img src="https://skillicons.dev/icons?i=instagram" width="40" />](https://www.instagram.com/rifkosatrio)
