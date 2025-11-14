@@ -22,5 +22,3 @@ I am committed to applying my academic foundation to real-world industry environ
 #### 🛠️ Tools & Technologies:
 <img src="assets/icons/cst.png" width="55" title="CST Studio Suite" /> <img src="assets/icons/Cisco-Packet-Tracer.png" width="40" title="Cisco Packet Tracer" /> <img src="assets/icons/pnet.png" width="40" title="PNetLab" /> <img src="assets/icons/proteus.png" width="49" title="Proteus" /> <img src="assets/icons/Advanced-Design-System.png" width="38" title="ADS" /> <img src="assets/icons/Google_Colaboratory_SVG_Logo.svg.png" width="55" title="Google Colab" /> <img src="assets/icons/Visual_Studio_Code_1.35_icon.svg.png" width="35" title="VS Code" /> <img src="assets/icons/sql.png" width="40" title="MySQL" /> <img src="assets/icons/MWord.png" width="37" title="Microsoft MWord" /> <img src="assets/icons/MExcel.png" width="37" title="Microsoft MExcel" /> <img src="assets/icons/visio.png" width="35" title="Microsoft Visio" /> <img src="assets/icons/canva.png" width="39" title="Canva" />
 
-
-[![Tic Tac Toe](https://raw.githubusercontent.com/timburgan/timburgan/master/tic-tac-toe.svg)](https://github.com/timburgan/timburgan/tree/master)
