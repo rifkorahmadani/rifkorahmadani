@@ -1,12 +1,4 @@
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Bahnschrift, Segoe UI, Arial, sans-serif"
-        font-size="21" fill="#000000">
-    Assalamualaikum I'm Rifko
-  </text>
-</svg>
-</p>
+## Assalamualaikum 🤞, I'm Rifko
 
 I’m a Wireless Telecommunication Engineering student at Politeknik Negeri Bandung
 <!--
