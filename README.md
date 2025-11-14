@@ -1,4 +1,5 @@
-## <h2 align="center"> Assalamualaikum 🤞, I'm Rifko
+## <h2 align="center">Assalamualaikum 👋, I'm Rifko</h2>
+
 
 I’m a Wireless Telecommunication Engineering student at Politeknik Negeri Bandung
 <!--
