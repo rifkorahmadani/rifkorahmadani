@@ -1,8 +1,8 @@
-<p align="center">
-  <span style="font-size:36px; font-weight: 700;">
+<div align="center">
+  <p style="font-size: 36px; font-weight: 700; margin: 0;">
     Assalamualaikum 👋, I'm Rifko
-  </span>
-</p>
+  </p>
+</div>
 
 I’m a Wireless Telecommunication Engineering student at Politeknik Negeri Bandung
 <!--
