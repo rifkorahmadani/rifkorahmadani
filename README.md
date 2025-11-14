@@ -1,6 +1,8 @@
-&nbsp;
-## <h2 align="center">Assalamualaikum 👋, I'm Rifko</h2>
-
+<p align="center">
+  <span style="font-size: 40px; font-weight: 700;">
+    Assalamualaikum 👋, I'm Rifko
+  </span>
+</p>
 
 I’m a Wireless Telecommunication Engineering student at Politeknik Negeri Bandung
 <!--
