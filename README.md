@@ -2,7 +2,9 @@
 
 I’m a Wireless Telecommunication Engineering student at Politeknik Negeri Bandung
 
-##### Connect with me:
+#### Connect with me:
 [<img src="https://skillicons.dev/icons?i=gmail" width="40" />](mailto:rifkorahmadani@gmail.com) [<img src="https://skillicons.dev/icons?i=linkedin" width="40" />](https://www.linkedin.com/in/rifkosatriorahmadani/) [<img src="https://skillicons.dev/icons?i=instagram" width="40" />](https://www.instagram.com/rifkosatrio)
 
+#### Programming Languages (Basic Level):
+[<img src="https://skillicons.dev/icons?i=java" width="40" />]() [<img src="https://skillicons.dev/icons?i=arduino" width="40" />]() [<img src="https://skillicons.dev/icons?i=python" width="40" />]()
 
