@@ -1,5 +1,4 @@
-## Assalamualaikum 👋
-## I'm Rifko Satrio Rahmadani
+## Assalamualaikum 👋 I'm Rifko Satrio Rahmadani
 
 <!--
 **rifkorahmadani/rifkorahmadani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
