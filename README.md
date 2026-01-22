@@ -7,7 +7,7 @@ I am a D4 Telecommunication Engineering student at Politeknik Negeri Bandung wit
 **My key interests include:**
 - Network infrastructure  
 - Cybersecurity  
-- Satellite communication  
+- Satellite Technology
 
 I also have hands-on experience in **IoT hardware development** using **ESP32, Arduino, and RFID**, as well as software projects involving **Java** and **MySQL**.
 I’m familiar with industry tools such as **Cisco Packet Tracer**, **PNetLab**, **CST Studio Suite**, and **Proteus**.
